@@ -119,7 +119,7 @@ for t in range(0, len(numbers)):
     elif numbers[t] < 0:
         neg_count = neg_count + 1
     else:
-        zero_count + zero_count + 1
+        zero_count = zero_count + 1
 
 print(f'There are {pos_count} positive numbers')
 print(f'There are {neg_count} negative numbers')
