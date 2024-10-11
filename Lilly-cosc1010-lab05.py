@@ -1,8 +1,8 @@
-# Your Name Here
+# Cooper Lilly
 # UWYO COSC 1010
 # Submission Date
 # Lab 03 
-# Lab Section: 
+# Lab Section: 13
 # Sources, people worked with, help given to: 
 # your
 # comments
@@ -104,8 +104,7 @@ for t in range(0, len(min_temps)):
 
 print(f"Max temp = {maxed}")
 print(f"Min temp = {mini}")
-print(max(max_temps))
-print(min(min_temps))
+
 # Given the below list 
 numbers = [-61, -76, 94, 21, 97, -4, 21, 56, -26, 9, 100, 56, -7, -32, 60, -68, -25, 3, -10, -83, 63, 0, 13, -99, 87, -46, -88, -71, 4, -99, -15, -12, 72, -1, -20, -90, 32, -36, -59, 83, 78, 52, 43, 55, 12, 16, -37, -5, -98, -53]
 # Count how many positive numbers occur, how many negative numbers occur, and how many times 0 occurs
